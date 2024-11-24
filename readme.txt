@@ -4,7 +4,7 @@ Take a peek into my side of the internet! See some recent projects and learna  l
 **Link to project:** 
 https://portfolioangels.netlify.app/
 
-<img src="https://i.imgur.com/NMpCHnZ.png" height="40%" width="40%">
+![alt text](https://i.imgur.com/NMpCHnZ.png)
 
 ## How It's Made:
 HTML, CSS, Javascript, Node, Express, MongoDB
